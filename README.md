@@ -7,7 +7,7 @@ Two meetings can't be placed in the same room at the same time.
  
 ** **Front End task** **
 
-For the current implementation we ask you to create a simple calendar's view.
+For the current implementation we ask you to create a simple calendar's view without any backend components.
 
 The view must visualize one month with all days per screen. Navigation through all months is desired (but optional). You should not use any of the existing calendar API's.
 Each day must be represented by a cell large enough to contain at least 3 of the meetings for that day. When a cell is selected all the meetings should be displayed in a pop-up window. All meetings should be arranged by their starting time.
