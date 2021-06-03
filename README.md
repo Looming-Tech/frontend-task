@@ -1,4 +1,4 @@
-# frontend-task
+# Calendar View
 
 The goal of the application is to have a calendar to manage users meetings.
 A meeting must contain - start/end hours, name, meeting room. The calendar must be populated from the attached JSON file.
