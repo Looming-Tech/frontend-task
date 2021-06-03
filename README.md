@@ -12,4 +12,4 @@ Create a calendar view with one month per screen. Navigation through all months 
 Each day should be represented by a cell large enough to contain at least 3 of the meetings for the day. When a cell is selected all the meetings should be displayed in a pop-up window. All meetings should be arranged by their starting time.
 Please focus on the visuals, it is important to be responsive without the use of **Bootstrap** to demonstrate **CSS** skills
 
-[a relative link](data.json)
+[Use this link to get sample data to visualize, also available in the repo as data.json](data.json)
